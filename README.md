@@ -58,6 +58,6 @@ Note: Each value for 'total boxes' and 'parts per box' must be spaced
 e.g. 
 ```
 Enter total number parts: 306
-Enter total number boxes of size S/M/L/XL: 5 10 5 1
-Enter total number parts per box of size S/M/L/XL: 20 15 10 5
+Enter total number boxes of size S/M/L/XL: 5 10 10 5
+Enter total number parts per box of size S/M/L/XL: 5 10 15 20
 ```
